@@ -1,0 +1,81 @@
+h1{
+	font-family: 'Bangers', cursive;
+	font-size: 100px; 
+	line-height: 35px;
+}
+
+h2{
+	font-family: 'Bangers', cursive;
+	font-size: 40px; 
+	line-height: 20px; 
+	color: #FF7470;
+
+}
+
+body{
+ 	margin: 0px;
+ 	color: #4583B2;
+	font-family: 'Roboto', sans-serif;font-size: 15px; line-height: 20px
+	}
+
+a {
+	color: #B2A1A1
+}
+
+a:hover{
+	color: #FF7470
+}
+
+.equipe img{
+	padding: 20px;
+}
+
+.equipe p{
+	color: white;
+}
+
+
+.border-radius{
+	 border-radius: 20px
+}
+
+
+.border-dashed{
+	border: 1px dashed #484346;
+}
+
+.background-black{
+	  background: #484346;
+	 
+}
+
+.background-yellow{
+	background: #FEFFE5;
+}
+
+.avantage {
+  padding: 20px;
+  font-weight: 300px;
+
+}
+
+.padding{
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+#header {
+	padding-top: 150px;
+	padding-bottom: 150px;
+	background-image: url('icones/pizza2.png');
+	color: #FF7470;
+	
+}
+
+#footer {
+	padding-top: 30px;
+	padding-bottom: 30px;
+	background: #484346;
+}
+
+
